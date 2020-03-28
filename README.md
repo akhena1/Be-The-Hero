@@ -13,6 +13,12 @@
  - [Knex.js](http://knexjs.org/)
  - [Express](https://expressjs.com/pt-br/)
  - [SQLite3](https://www.sqlite.org/version3.html)
+ - [Celebrate](https://www.npmjs.com/package/celebrate)
+
+> Para os testes no Backend
+ - [Jest](https://jestjs.io/)
+ - [supertest](https://www.npmjs.com/package/supertest)
+ - [cross-env](https://www.npmjs.com/package/cross-env)
 
 > No frontend WEB
  - [React.js](https://pt-br.reactjs.org/)
